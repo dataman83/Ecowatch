@@ -1,0 +1,10 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-color: #87ceeb; /* Sky blue background */
+}
+
+canvas {
+  display: block;
+}
